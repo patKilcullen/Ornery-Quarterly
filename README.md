@@ -1,3 +1,15 @@
+https://github.com/jarrodwatts/reddit-clone
+https://www.youtube.com/watch?v=cLKLqpxPSws&t=211s 
+amplify profile ornery
+ampliy dashboard user ornery-quarterly
+
+
+23.20 in
+install aws amplify, next need to run configure
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
